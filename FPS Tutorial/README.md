@@ -29,6 +29,7 @@
 - when you click on a GO, the Inspector pops up
 - the Inspector contains all the properties of the object that gives it funtionality 
 - you can create GO or drag GO from the Project window into the scene
+- you must bake an object to make it walkable??
 
 ## Windows
 - Scene window - game world editor
