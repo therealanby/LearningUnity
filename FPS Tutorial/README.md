@@ -19,7 +19,7 @@
 - hand tool at top to pan the game world
 - alt-click to orbit
 - alt-Rclick or scroll wheel to zoom
-- move tool to move GOs in the scene
+- move tool to move GOs in the scene (shortcut(SC) w)
 - gizmos are arrows used to move the GO in a specific direction
 
 ## Object and Properties
